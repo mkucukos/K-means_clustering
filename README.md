@@ -1,13 +1,10 @@
-# K-Nearest-Neighbors-K-NN
+# K-means_clustering
 
-I attempt to predict whether people will purchase SUVs based on their estimated salary and age. I split the data into training and test sets and used the Training set to train the K-Nearest Neighbors(k-NN). The methods of feature scaling and inverse transformation were used.
-
-Accuracy of a confusion matrix :0.93
-
+I try to cluster the data based on the features such as age, gender, annual income, and spending score. Customer behavior and purchase data are among the aspects that influence a consumer's spending Score. I used the elbow method to choose the number of clusters by fitting the model with a range of values for K. K=5 cluster has been created.
 
 ```bash
 $ pip install -r requirement.txt
 ```
 ![model's output](./Figure1.png)
 ![model's output](./Figure2.png)
-![model's output](./Figure3.png)
+
