@@ -5,6 +5,6 @@ I try to cluster the data based on the features such as age, gender, annual inco
 ```bash
 $ pip install -r requirement.txt
 ```
-![model's output](./Figure1.png)
-![model's output](./Figure2.png)
+![model's output](./figure1.png)
+![model's output](./figure2.png)
 
